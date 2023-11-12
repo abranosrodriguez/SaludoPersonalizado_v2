@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SaludoPersonalizado_v2</string>
+    <string name="hintName">Nombre</string>
+    <string name="hintDate">Fecha</string>
+    <string name="rdbSr">Sr.</string>
+    <string name="rdbSra">Sra.</string>
+    <string name="btnSaludo">SALUDO</string>
+    <string name="btnFinalizar">FINALIZAR</string>
+</resources>
