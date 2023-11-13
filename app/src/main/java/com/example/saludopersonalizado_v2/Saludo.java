@@ -27,7 +27,7 @@ public class Saludo extends AppCompatActivity {
         btnFinalizar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                onDestroy();
+                finish();
             }
         });
     }
